@@ -74,7 +74,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > can run a particular command for every item in a list. 
+> > xargs can run a particular command for every item in a list. 
 can make directories or files out a string of data
 echo 'one two three' | xargs mkdir
 ls
