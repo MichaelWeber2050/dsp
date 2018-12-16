@@ -81,7 +81,6 @@ ls
 one two three
 
 or remove them 'one two three' | xargs rmdir
-
 with one line swift and easy
 
  
