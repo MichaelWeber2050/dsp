@@ -5,6 +5,7 @@ are lighter or heavier than others. Compute Cohen’s d to quantify the
 difference between the groups. How does it compare to the difference in
 pregnancy length?
 
+ANSWER:
 First I tried to calculate the mean, std and var of first babies and others and found the mean weight of firsts is lighter (7.201 lbs) then the others (7.326 lbs) 
 The stardard deviation of the firsts was higher (1.42) than the others (1.39) but not by much.
 
