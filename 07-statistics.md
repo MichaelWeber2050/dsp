@@ -94,7 +94,12 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> It is hard to figure out exactly where they differ. I'm paraphrasing from wikipedia when I say Bayesian interpretations describe the probability of an event based on prior knowledge of conditions that might be related to the event. Wiki says Bayesian probability measures "degree of belief" while Frequentist measures a "proportion of outcomes". 
+The best comparison is through tree diagrams showing each obtains the same outcomes in opposite orders, to obtain inverse probabilities.  
+
+
+Illustration of frequentist interpretation with tree diagrams. Bayes' theorem connects conditional probabilities to their inverses.
+
 
 ---
 
